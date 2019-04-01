@@ -1,0 +1,14 @@
+{
+  "name": "removeduplicatesfromsortedarray",
+  "version": "1.0.0",
+  "description": "https://leetcode.com/problems/remove-duplicates-from-sorted-array/",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "../node_modules/mocha/bin/mocha --reporter min --watch"
+  },
+  "author": "R5D4",
+  "license": "ISC"
+}
